@@ -11,7 +11,7 @@ import {
   imports: [
     MatFormFieldModule,
     MatButtonModule,
-    MatInputModule
+    MatInputModule,
   ],
   exports: [
     MatFormFieldModule,
